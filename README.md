@@ -1,2 +1,2 @@
 # Trajectory-Predictor
-Predicting trajectory and steering angle of a self driving car using behavioral cloning. 
+Predicting trajectory and steering angle of a self driving car using Behavioral Cloning. 
