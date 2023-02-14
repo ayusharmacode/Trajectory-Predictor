@@ -1,4 +1,4 @@
-""" Steering angle prediction model for SDCND Behavariol cloning project
+""" Steering angle prediction model
 """
 import os
 import argparse
